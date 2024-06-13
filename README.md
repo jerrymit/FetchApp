@@ -1,5 +1,6 @@
-![image](https://github.com/jerrymit/FetchApp/blob/master/FetchApp.PNG)
-
+<p align="center">
+  <img src="https://github.com/jerrymit/FetchApp/blob/master/FetchApp.PNG" alt="FetchApp Screenshot">
+</p>
 # FetchApp
 • FetchApp is an Android application developed in Kotlin that demonstrates the use of Retrofit to fetch and display a list of items from a remote server. The app groups items by 'listId' and filters out entries with empty or null names.
 
