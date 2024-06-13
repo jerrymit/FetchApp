@@ -2,7 +2,7 @@
 • FetchApp is an Android application developed in Kotlin that demonstrates the use of Retrofit to fetch and display a list of items from a remote server. The app groups items by 'listId' and filters out entries with empty or null names.
 
 # Features
-• Data Fetching: Utilizes Retrofit to load data from a remote JSON file.
+• Data Fetching: Utilizes Retrofit to load data from a remote JSON file.\n
 
 • Data Filtering and Sorting: Filters out items with null or blank names and sorts items by 'listId' and then by 'name'.
 • User Interface: Provides a clean and simple UI to display the filtered and sorted items using a RecyclerView.
