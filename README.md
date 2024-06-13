@@ -29,5 +29,5 @@ git clone https://github.com/yourusername/fetchapp.git
 # Usage
 The main interface includes a button to toggle the display of fetched data. Upon clicking 'Show Results', the app fetches data from the server, processes it as per the requirements, and displays it. You can hide the results by clicking the same button, now labeled 'Close'.
 
-Contributing
+# Contributing
 Feel free to fork the project and submit pull requests. You can also open issues for bugs or new features you think would improve the application.
