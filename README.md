@@ -13,6 +13,7 @@
 
 # Prerequisites
 Before running this project, make sure you have:
+
 • Android Studio
 
 • Android SDK set up on your development environment
