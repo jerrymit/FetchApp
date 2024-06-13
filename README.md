@@ -3,7 +3,6 @@
 
 # Features
 • Data Fetching: Utilizes Retrofit to load data from a remote JSON file.
-
 • Data Filtering and Sorting: Filters out items with null or blank names and sorts items by 'listId' and then by 'name'.
 • User Interface: Provides a clean and simple UI to display the filtered and sorted items using a RecyclerView.
 
